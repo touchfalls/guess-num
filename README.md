@@ -1,5 +1,6 @@
 # Number Guessing Game 🎲
 
+Ссылка на проект ROADMAP: https://roadmap.sh/projects/number-guessing-game
 **Угадай число** — простая консольная игра на Python.  
 
 Компьютер загадывает случайное число от 1 до 100, а ваша задача — угадать его.  
@@ -37,4 +38,3 @@ cd guess-num
 python number_guessing_game.py
 ```
 
-https://roadmap.sh/projects/number-guessing-game
